@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.exe
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.deps.json
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.runtimeconfig.json
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.dll
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.pdb
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.dll
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.pdb

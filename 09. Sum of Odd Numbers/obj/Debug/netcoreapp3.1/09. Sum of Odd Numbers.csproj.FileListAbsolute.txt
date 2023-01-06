@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.exe
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.deps.json
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.runtimeconfig.json
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.dll
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.pdb
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.dll
+C:\Users\Dell\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.pdb
